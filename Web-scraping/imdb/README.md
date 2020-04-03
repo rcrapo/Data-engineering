@@ -4,7 +4,7 @@ This web crawler is designed to scrape the top ranked 250 movies on imdb. It's a
 
 ## Dependencies
 
-This web crawler was created using *scrapy* and uses version 1.6. with python 3.8. For easy use of scrapy use the anaconda distribution. [For windows you can download it at] (https://docs.anaconda.com/anaconda/install/windows/). Once you install the anaconda distribution, you can open an *Anaconda prompt* and then type `conda install scrapy`. This will provide you with all the dependencies you should need
+This web crawler was created using *scrapy* and uses version 1.6. with python 3.8. For easy use of scrapy use the anaconda distribution. [For windows you can download it at] (https://docs.anaconda.com/anaconda/install/windows/) Once you install the anaconda distribution, you can open an *Anaconda prompt* and then type `conda install scrapy`. This will provide you with all the dependencies you should need.
 
 ## Instructions
 
