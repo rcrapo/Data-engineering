@@ -1,4 +1,4 @@
-##Description
+## Description
 
 This web crawler is designed to scrape the top ranked 250 movies on imdb. It's a simple crawler that demonstates how you can use scrapy to quickly pull data into an organized manner. This contains all of the files that are needed to activate the spider as well as the outputed csv file that was created from running it. Becasue of the nature of the code, the movies in the csv are not listed exactly as they are on imdb, but the data is still all there. The output of the data file contains the following field for each movie: title, director, mpa rating, length, genre, release date, imdb_rating, vote count, and synopsis.
 
