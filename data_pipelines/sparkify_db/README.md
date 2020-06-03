@@ -1,8 +1,8 @@
-# Purpose of Database
+# Purpose Database
 
-This database was designed with the goal of understading the behaviour of Sparkify's users (simulated data). At the core of this database is the songplays table that contains information about which songs were played by who and at what time. The other tables provide further qualitative information that can help anlysts flesh out the finer details of how sparkify is doing and where it can grow. The information in this database will help sparkify in the following ways:
+This project focuses on designing and populating a database for a fictional music streaming service called Sparkify. This database was designed with the goal of understading the behaviour of Sparkify's users (simulated data). At the core of this design is the songplays table that contains information about which songs were played by who and at what time. The other tables provide further qualitative information that can help analysts flesh out the finer details of how sparkify is doing and where it can grow. The insights from this data will help sparkify in the following ways:
 
-1. Understanding this type of data will help sparkify grow as they can identify certain music artists that are popular. This will inform stakeholders in the song curation process to know which artists to seek out in building the song database.
+1. Understanding this type of data will help Sparkify grow as they can identify certain music artists that are popular. This will inform stakeholders in the song curation process to know which artists to seek out in building the song database.
 2. Understanding user demographics can help guide marketing and advertising campaigns. For instance, if sparkify discovers that women between the ages of 20 and 35 listen to sparkify mostly in the early dawn or post 5pm, stakeholders could surmise that sparkify is often used as a workout companion. This may lead to marketing campaigns or promotions with wireless ear bud brands, water bottle brands, fitness gear etc.
 3. In addition to effectiveness, understanging the user demographics can help save the company money in ad spending. Understanding the locations of the users and the browser info can help deploy ad acampaigns with precision.
 
