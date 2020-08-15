@@ -1,0 +1,19 @@
+﻿Field Name,Data Type,Description,Constraints,Example
+cicid,int,Unique id for US immigrant,Primary Key (informational),34359738372
+i94_month,int,Month of the year the person came into the country,,4
+origin_country,varchar,The country that the immigrant is from,,Austria
+i94_port,varchar,The port of entry where the immigrant went through customs,,"Detroit, MI"
+arrival_date,date,The date the person arrived into the US,,4/1/2016
+travel_method,varchar,The mode that the person traveled to get to the US,,Air
+i94_state,varchar,The state that the person will be living in,,MI
+departure_date,date,The date the person has to leave the US,,4/12/2016
+age,int,Age of the person,,61
+purpose_of_stay,varchar,The reason for staying in the US,,Pleasure
+file_date_add,date,The date the person was aded to file ,,4/1/2016
+birth_year,int,The year the person was born ,,1955
+file_add_dt,date,Date that the individual was added to the i94 files,,6/29/2016
+gender,varchar,Gender of the person,,F
+airline,varchar,The airline the person used to get to the US,,LH
+admission_number,int,Admission number,,5.54E+10
+flight_num,varchar,Number of the flight the person took to travel to US,,442
+visatype,varchar,What type of visa did the individual receive,,WT

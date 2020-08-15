@@ -1,0 +1,8 @@
+﻿Field Name,Data Type,Description,Constraints,Example
+airport_id,int,Unique international airport id,Primary Key (informational),00AZ
+name,varchar,Name of the airport,,Cordes airport
+type,varchar,"The type of airport, denoted by size or type of air traffic",,small airport
+elevation_ft,int,Elevation of the airport  from sea level rounded to the nearest foot,,3810
+city_id,bigint,Unique city id where the airport is located,,20934
+latitude,float8,Latitude given in decimal degrees,,34.3055851
+longitude,float8,Longitude given in decimal degrees,,-112.1651598

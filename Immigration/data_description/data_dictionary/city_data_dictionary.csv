@@ -1,0 +1,4 @@
+﻿Field Name,Data Type,Description,Constraints,Example
+city_id,int,unique city identification number,Primary Key (informational),3
+city,varchar,US city name,,Atlanta
+state_code,varchar,US state code abreviation,,GA

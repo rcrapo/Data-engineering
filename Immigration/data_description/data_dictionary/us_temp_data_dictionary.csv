@@ -1,0 +1,7 @@
+﻿Field Name,Data Type,Description,Constraints,Example
+temp_id,bigint,Unique id for the temperature of each city and month combined,Primary Key (informational),1
+city_id,bigint,Unique id for US city,,6
+month,int,Month of the year in integer format. Represents the averages for the single month over a hundred years,,4
+avg_temp,float8,The average temperature for a given month and city over 100 years. Temperature given in degrees Celsius,,22.3
+,,,,
+,, ,,

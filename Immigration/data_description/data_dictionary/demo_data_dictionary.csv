@@ -1,0 +1,14 @@
+﻿Field Name,Data Type,Description,Constraints,Example
+state_code,varchar,Abreviated state name,Primary Key (informational),NM
+american_indian,bigint,number of american and alaskan native people living in the state,,42428
+asian,bigint,number of Asian people living in the state,,32658
+black,bigint,number of Afican American or Black people living in the state,,35853
+hispanic_latino,bigint,number of hispanic or latino people living in the state,,417026
+white,bigint,number of white people living in the state,,651564
+male_population,bigint,number of males living in the state,,302370
+female_population,bigint,number of females living in the state,,445560
+num_veterans,bigint,number of veterans living in the state,,2045050
+foreign_born,bigint,number of foreign born people living in the state,,2150160
+total_population,bigint,total population of the state,,4195210
+median_age,numeric,median age of person living in the state,,37.78
+avg_household_size,numeric,average number of people in each household,,2.59
