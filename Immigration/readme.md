@@ -58,7 +58,7 @@ The rational for this choice is to democratize the data in a way that multiple p
 Because Redshift does not enfore the constraints of conventional primary keys, there is no explicit contraint assigned in the SQL code of the sql_queries.py file. Instead, users can see if the primary keys have any null values when running the redshift_etl.py file. This is where the quality checks come in. The output of the run will return the number of records for each table as well as the number of null values in the primary key for each table.
 
 ### Full Schema design
-<img src="data_description/us_imm_schema.PNG" alt="Relational Table design"/>
+<img src="data_description/imm_schema_design.PNG" alt="Relational Table design"/>
 
 # Tools Used
 
